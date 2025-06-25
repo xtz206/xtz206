@@ -1,15 +1,12 @@
-# Hi, here is XTZ206 👋
-
-Welcome to my GitHub profile!
-I'm an undergraduate student at the University of Hong Kong, interested in software development and programming.
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/XTZ206)
+# 👋 Here is xtz206 !!!
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on the web spider project `BiliAnalyzer`
-- 🌱 I’m trying to learn new languages and technological tools.
-- 📫 How to reach me: [ywx2006@outlook.com](mailto:ywx2006@outlook.com)
+- 👨‍🎓 I’m currently studying at the University of Hong Kong, hoping to major in Computer Science.
+- 🌱 I’m interested in web development, open source project.
+- 🔭 I’m currently working on the web spider project `BiliAnalyzer`.
+- 🌐 Welcome to visit [my website](http://47.103.17.135/) (it's still under construction)
+- 📫 You can reach me by email: [ywx2006@outlook.com](mailto:ywx2006@outlook.com)
 
 ## 🛠️ Technologies & Tools
 
