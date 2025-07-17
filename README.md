@@ -5,7 +5,7 @@
 - 👨‍🎓 I’m currently studying at the University of Hong Kong, hoping to major in Computer Science.
 - 🌱 I’m interested in web development, open source project.
 - 🔭 I’m currently working on the web spider project `BiliAnalyzer`.
-- 🌐 Welcome to visit [my website](http://47.103.17.135/) (it's still under construction)
+- 🌐 Welcome to visit my website [xtz206.top](http://xtz206.top)
 - 📫 You can reach me by email: [ywx2006@outlook.com](mailto:ywx2006@outlook.com)
 
 ## 🛠️ Technologies & Tools
