@@ -10,7 +10,7 @@
 
 ## 🛠️ Technologies & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtz206&theme=transparent&layout=compact)
+![Top Langs](https://github-stats.xtz206.top/api/top-langs/?username=xtz206&theme=transparent&layout=donut&exclude_repo=github-readme-stats)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
@@ -24,4 +24,4 @@
 
 ## 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats-xtz206.vercel.app/api?username=xtz206&show_icons=true&theme=transparent)
+![Github Stats](https://github-stats.xtz206.top/api?username=xtz206&show_icons=true&theme=transparent)
